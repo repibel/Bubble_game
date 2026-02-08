@@ -1,0 +1,807 @@
+--- Game Start: 2026-02-08 오후 11:55:37 ---
+[23:55:39] [SpawnBubble] Spawning Number 1 at Grid (3, 1)
+[23:55:39] [SpawnBubble] Spawning Number 2 at Grid (2, 1)
+[23:55:39] [SpawnBubble] Spawning Number 3 at Grid (4, 3)
+[23:55:39] [SpawnBubble] Spawning Number 4 at Grid (3, 6)
+[23:55:39] [SpawnBubble] Spawning Number 5 at Grid (1, 3)
+[23:55:41] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 2, NeedMore: True, CanSpawn: True
+[23:55:41] [SpawnNextBubble] Target present. Spawning next sequence: 6
+[23:55:41] [SpawnBubble] Spawning Number 6 at Grid (0, 5)
+[23:55:41] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 2, NeedMore: False, CanSpawn: True
+[23:55:41] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 3, NeedMore: True, CanSpawn: True
+[23:55:41] [SpawnNextBubble] Target present. Spawning next sequence: 7
+[23:55:41] [SpawnBubble] Spawning Number 7 at Grid (0, 1)
+[23:55:41] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 3, NeedMore: False, CanSpawn: True
+[23:55:42] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 4, NeedMore: True, CanSpawn: True
+[23:55:42] [SpawnNextBubble] Target present. Spawning next sequence: 8
+[23:55:42] [SpawnBubble] Spawning Number 8 at Grid (4, 3)
+[23:55:42] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 4, NeedMore: False, CanSpawn: True
+[23:55:42] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 5, NeedMore: True, CanSpawn: True
+[23:55:42] [SpawnNextBubble] Target present. Spawning next sequence: 9
+[23:55:42] [SpawnBubble] Spawning Number 9 at Grid (4, 2)
+[23:55:42] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 5, NeedMore: False, CanSpawn: True
+[23:55:42] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 6, NeedMore: True, CanSpawn: True
+[23:55:42] [SpawnNextBubble] Target present. Spawning next sequence: 10
+[23:55:42] [SpawnBubble] Spawning Number 10 at Grid (3, 1)
+[23:55:43] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 6, NeedMore: False, CanSpawn: True
+[23:55:43] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 7, NeedMore: True, CanSpawn: True
+[23:55:43] [SpawnNextBubble] Target present. Spawning next sequence: 11
+[23:55:43] [SpawnBubble] Spawning Number 11 at Grid (2, 1)
+[23:55:43] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 7, NeedMore: False, CanSpawn: True
+[23:55:43] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 8, NeedMore: True, CanSpawn: True
+[23:55:43] [SpawnNextBubble] Target present. Spawning next sequence: 12
+[23:55:43] [SpawnBubble] Spawning Number 12 at Grid (3, 4)
+[23:55:43] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 8, NeedMore: False, CanSpawn: True
+[23:55:44] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 9, NeedMore: True, CanSpawn: True
+[23:55:44] [SpawnNextBubble] Target present. Spawning next sequence: 13
+[23:55:44] [SpawnBubble] Spawning Number 13 at Grid (0, 1)
+[23:55:44] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 9, NeedMore: False, CanSpawn: True
+[23:55:44] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 10, NeedMore: True, CanSpawn: True
+[23:55:44] [SpawnNextBubble] Target present. Spawning next sequence: 14
+[23:55:44] [SpawnBubble] Spawning Number 14 at Grid (1, 2)
+[23:55:44] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 10, NeedMore: False, CanSpawn: True
+[23:55:44] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 11, NeedMore: True, CanSpawn: True
+[23:55:44] [SpawnNextBubble] Target present. Spawning next sequence: 15
+[23:55:44] [SpawnBubble] Spawning Number 15 at Grid (1, 4)
+[23:55:44] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 11, NeedMore: False, CanSpawn: True
+[23:55:44] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 12, NeedMore: True, CanSpawn: True
+[23:55:44] [SpawnNextBubble] Target present. Spawning next sequence: 16
+[23:55:44] [SpawnBubble] Spawning Number 16 at Grid (2, 3)
+[23:55:44] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 12, NeedMore: False, CanSpawn: True
+[23:55:45] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 13, NeedMore: True, CanSpawn: True
+[23:55:45] [SpawnNextBubble] Target present. Spawning next sequence: 17
+[23:55:45] [SpawnBubble] Spawning Number 17 at Grid (2, 4)
+[23:55:45] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 13, NeedMore: False, CanSpawn: True
+[23:55:46] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 14, NeedMore: True, CanSpawn: True
+[23:55:46] [SpawnNextBubble] Target present. Spawning next sequence: 18
+[23:55:46] [SpawnBubble] Spawning Number 18 at Grid (0, 4)
+[23:55:46] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 14, NeedMore: False, CanSpawn: True
+[23:55:46] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 15, NeedMore: True, CanSpawn: True
+[23:55:46] [SpawnNextBubble] Target present. Spawning next sequence: 19
+[23:55:46] [SpawnBubble] Spawning Number 19 at Grid (4, 4)
+[23:55:46] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 15, NeedMore: False, CanSpawn: True
+[23:55:46] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 16, NeedMore: False, CanSpawn: True
+[23:55:47] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 17, NeedMore: True, CanSpawn: True
+[23:55:47] [SpawnNextBubble] Target present. Spawning next sequence: 20
+[23:55:47] [SpawnBubble] Spawning Number 20 at Grid (0, 6)
+[23:55:47] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 17, NeedMore: False, CanSpawn: True
+[23:55:47] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 18, NeedMore: True, CanSpawn: True
+[23:55:47] [SpawnNextBubble] Target present. Spawning next sequence: 21
+[23:55:47] [SpawnBubble] Spawning Number 21 at Grid (3, 2)
+[23:55:47] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 18, NeedMore: False, CanSpawn: True
+[23:55:47] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 19, NeedMore: True, CanSpawn: True
+[23:55:47] [SpawnNextBubble] Target present. Spawning next sequence: 22
+[23:55:47] [SpawnBubble] Spawning Number 22 at Grid (3, 5)
+[23:55:47] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 19, NeedMore: False, CanSpawn: True
+[23:55:48] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 20, NeedMore: True, CanSpawn: True
+[23:55:48] [SpawnNextBubble] Target present. Spawning next sequence: 23
+[23:55:48] [SpawnBubble] Spawning Number 23 at Grid (3, 3)
+[23:55:48] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 20, NeedMore: False, CanSpawn: True
+[23:55:49] [UpdateBubbleCount] Active: 3, Desired: 5, Target: 21, NeedMore: True, CanSpawn: True
+[23:55:49] [SpawnNextBubble] Target present. Spawning next sequence: 24
+[23:55:49] [SpawnBubble] Spawning Number 24 at Grid (4, 6)
+[23:55:49] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 21, NeedMore: True, CanSpawn: True
+[23:55:49] [SpawnNextBubble] Target present. Spawning next sequence: 25
+[23:55:49] [SpawnBubble] Spawning Number 25 at Grid (2, 6)
+[23:55:49] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 21, NeedMore: False, CanSpawn: True
+[23:55:49] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 22, NeedMore: True, CanSpawn: True
+[23:55:49] [SpawnNextBubble] Target present. Spawning next sequence: 26
+[23:55:49] [SpawnBubble] Spawning Number 26 at Grid (1, 3)
+[23:55:49] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 22, NeedMore: False, CanSpawn: True
+[23:55:50] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 23, NeedMore: True, CanSpawn: True
+[23:55:50] [SpawnNextBubble] Target present. Spawning next sequence: 27
+[23:55:50] [SpawnBubble] Spawning Number 27 at Grid (1, 1)
+[23:55:50] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 23, NeedMore: False, CanSpawn: True
+[23:55:51] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 24, NeedMore: True, CanSpawn: True
+[23:55:51] [SpawnNextBubble] Target present. Spawning next sequence: 28
+[23:55:51] [SpawnBubble] Spawning Number 28 at Grid (0, 6)
+[23:55:51] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 24, NeedMore: False, CanSpawn: True
+[23:55:53] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 25, NeedMore: True, CanSpawn: True
+[23:55:53] [SpawnNextBubble] Target present. Spawning next sequence: 29
+[23:55:53] [SpawnBubble] Spawning Number 29 at Grid (4, 5)
+[23:55:53] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 25, NeedMore: False, CanSpawn: True
+[23:55:54] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 26, NeedMore: True, CanSpawn: True
+[23:55:54] [SpawnNextBubble] Target present. Spawning next sequence: 30
+[23:55:54] [SpawnBubble] Spawning Number 30 at Grid (0, 5)
+[23:55:55] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 26, NeedMore: False, CanSpawn: True
+[23:55:55] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 27, NeedMore: True, CanSpawn: True
+[23:55:55] [SpawnNextBubble] Target present. Spawning next sequence: 31
+[23:55:55] [SpawnBubble] Spawning Number 31 at Grid (0, 4)
+[23:55:55] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 27, NeedMore: False, CanSpawn: True
+[23:55:56] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 28, NeedMore: True, CanSpawn: True
+[23:55:56] [SpawnNextBubble] Target present. Spawning next sequence: 32
+[23:55:56] [SpawnBubble] Spawning Number 32 at Grid (0, 2)
+[23:55:56] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 28, NeedMore: False, CanSpawn: True
+[23:55:56] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 29, NeedMore: True, CanSpawn: True
+[23:55:56] [SpawnNextBubble] Target present. Spawning next sequence: 33
+[23:55:56] [SpawnBubble] Spawning Number 33 at Grid (3, 4)
+[23:55:57] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 29, NeedMore: False, CanSpawn: True
+[23:55:57] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 30, NeedMore: True, CanSpawn: True
+[23:55:57] [SpawnNextBubble] Target present. Spawning next sequence: 34
+[23:55:57] [SpawnBubble] Spawning Number 34 at Grid (1, 1)
+[23:55:58] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 30, NeedMore: False, CanSpawn: True
+[23:55:58] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 31, NeedMore: True, CanSpawn: True
+[23:55:58] [SpawnNextBubble] Target present. Spawning next sequence: 35
+[23:55:58] [SpawnBubble] Spawning Number 35 at Grid (2, 6)
+[23:55:58] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 31, NeedMore: False, CanSpawn: True
+[23:55:59] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 32, NeedMore: True, CanSpawn: True
+[23:55:59] [SpawnNextBubble] Target present. Spawning next sequence: 36
+[23:55:59] [SpawnBubble] Spawning Number 36 at Grid (0, 6)
+[23:55:59] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 32, NeedMore: False, CanSpawn: True
+[23:55:59] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 33, NeedMore: True, CanSpawn: True
+[23:55:59] [SpawnNextBubble] Target present. Spawning next sequence: 37
+[23:55:59] [SpawnBubble] Spawning Number 37 at Grid (1, 2)
+[23:55:59] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 33, NeedMore: False, CanSpawn: True
+[23:56:00] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 34, NeedMore: True, CanSpawn: True
+[23:56:00] [SpawnNextBubble] Target present. Spawning next sequence: 38
+[23:56:00] [SpawnBubble] Spawning Number 38 at Grid (4, 2)
+[23:56:00] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 34, NeedMore: False, CanSpawn: True
+[23:56:00] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 35, NeedMore: True, CanSpawn: True
+[23:56:00] [SpawnNextBubble] Target present. Spawning next sequence: 39
+[23:56:00] [SpawnBubble] Spawning Number 39 at Grid (4, 1)
+[23:56:00] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 35, NeedMore: False, CanSpawn: True
+[23:56:01] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 36, NeedMore: True, CanSpawn: True
+[23:56:01] [SpawnNextBubble] Target present. Spawning next sequence: 40
+[23:56:01] [SpawnBubble] Spawning Number 40 at Grid (2, 1)
+[23:56:01] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 36, NeedMore: False, CanSpawn: True
+[23:56:01] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 37, NeedMore: True, CanSpawn: True
+[23:56:01] [SpawnNextBubble] Target present. Spawning next sequence: 41
+[23:56:01] [SpawnBubble] Spawning Number 41 at Grid (1, 6)
+[23:56:01] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 37, NeedMore: False, CanSpawn: True
+[23:56:01] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 38, NeedMore: True, CanSpawn: True
+[23:56:01] [SpawnNextBubble] Target present. Spawning next sequence: 42
+[23:56:01] [SpawnBubble] Spawning Number 42 at Grid (0, 4)
+[23:56:01] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 38, NeedMore: False, CanSpawn: True
+[23:56:02] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 39, NeedMore: False, CanSpawn: True
+[23:56:02] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 40, NeedMore: True, CanSpawn: True
+[23:56:02] [SpawnNextBubble] Target present. Spawning next sequence: 43
+[23:56:02] [SpawnBubble] Spawning Number 43 at Grid (4, 5)
+[23:56:02] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 40, NeedMore: False, CanSpawn: True
+[23:56:03] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 41, NeedMore: True, CanSpawn: True
+[23:56:03] [SpawnNextBubble] Target present. Spawning next sequence: 44
+[23:56:03] [SpawnBubble] Spawning Number 44 at Grid (3, 5)
+[23:56:03] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 41, NeedMore: False, CanSpawn: True
+[23:56:03] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 42, NeedMore: True, CanSpawn: True
+[23:56:03] [SpawnNextBubble] Target present. Spawning next sequence: 45
+[23:56:03] [SpawnBubble] Spawning Number 45 at Grid (4, 1)
+[23:56:03] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 42, NeedMore: False, CanSpawn: True
+[23:56:03] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 43, NeedMore: True, CanSpawn: True
+[23:56:03] [SpawnNextBubble] Target present. Spawning next sequence: 46
+[23:56:03] [SpawnBubble] Spawning Number 46 at Grid (2, 2)
+[23:56:03] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 43, NeedMore: False, CanSpawn: True
+[23:56:04] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 44, NeedMore: True, CanSpawn: True
+[23:56:04] [SpawnNextBubble] Target present. Spawning next sequence: 47
+[23:56:04] [SpawnBubble] Spawning Number 47 at Grid (1, 6)
+[23:56:04] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 44, NeedMore: False, CanSpawn: True
+[23:56:04] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 45, NeedMore: True, CanSpawn: True
+[23:56:04] [SpawnNextBubble] Target present. Spawning next sequence: 48
+[23:56:04] [SpawnBubble] Spawning Number 48 at Grid (4, 2)
+[23:56:04] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 45, NeedMore: False, CanSpawn: True
+[23:56:05] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 46, NeedMore: True, CanSpawn: True
+[23:56:05] [SpawnNextBubble] Target present. Spawning next sequence: 49
+[23:56:05] [SpawnBubble] Spawning Number 49 at Grid (0, 3)
+[23:56:05] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 46, NeedMore: False, CanSpawn: True
+[23:56:05] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 47, NeedMore: True, CanSpawn: True
+[23:56:05] [SpawnNextBubble] Target present. Spawning next sequence: 50
+[23:56:05] [SpawnBubble] Spawning Number 50 at Grid (3, 3)
+[23:56:05] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 47, NeedMore: False, CanSpawn: True
+[23:56:05] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 48, NeedMore: True, CanSpawn: True
+[23:56:05] [SpawnNextBubble] Target present. Spawning next sequence: 51
+[23:56:05] [SpawnBubble] Spawning Number 51 at Grid (2, 2)
+[23:56:05] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 48, NeedMore: False, CanSpawn: True
+[23:56:06] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 49, NeedMore: True, CanSpawn: True
+[23:56:06] [SpawnNextBubble] Target present. Spawning next sequence: 52
+[23:56:06] [SpawnBubble] Spawning Number 52 at Grid (2, 1)
+[23:56:06] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 49, NeedMore: False, CanSpawn: True
+[23:56:07] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 50, NeedMore: True, CanSpawn: True
+[23:56:07] [SpawnNextBubble] Target present. Spawning next sequence: 53
+[23:56:07] [SpawnBubble] Spawning Number 53 at Grid (4, 1)
+[23:56:07] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 50, NeedMore: False, CanSpawn: True
+[23:56:07] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 51, NeedMore: True, CanSpawn: True
+[23:56:07] [SpawnNextBubble] Target present. Spawning next sequence: 54
+[23:56:07] [SpawnBubble] Spawning Number 54 at Grid (0, 2)
+[23:56:07] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 51, NeedMore: False, CanSpawn: True
+[23:56:07] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 52, NeedMore: True, CanSpawn: True
+[23:56:07] [SpawnNextBubble] Target present. Spawning next sequence: 55
+[23:56:07] [SpawnBubble] Spawning Number 55 at Grid (2, 4)
+[23:56:07] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 52, NeedMore: False, CanSpawn: True
+[23:56:07] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 53, NeedMore: True, CanSpawn: True
+[23:56:07] [SpawnNextBubble] Target present. Spawning next sequence: 56
+[23:56:07] [SpawnBubble] Spawning Number 56 at Grid (4, 5)
+[23:56:08] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 53, NeedMore: False, CanSpawn: True
+[23:56:08] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 54, NeedMore: False, CanSpawn: True
+[23:56:08] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 55, NeedMore: True, CanSpawn: True
+[23:56:08] [SpawnNextBubble] Target present. Spawning next sequence: 57
+[23:56:08] [SpawnBubble] Spawning Number 57 at Grid (4, 4)
+[23:56:09] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 55, NeedMore: False, CanSpawn: True
+[23:56:09] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 56, NeedMore: True, CanSpawn: True
+[23:56:09] [SpawnNextBubble] Target present. Spawning next sequence: 58
+[23:56:09] [SpawnBubble] Spawning Number 58 at Grid (1, 3)
+[23:56:09] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 56, NeedMore: False, CanSpawn: True
+[23:56:09] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 57, NeedMore: True, CanSpawn: True
+[23:56:09] [SpawnNextBubble] Target present. Spawning next sequence: 59
+[23:56:09] [SpawnBubble] Spawning Number 59 at Grid (4, 1)
+[23:56:10] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 57, NeedMore: False, CanSpawn: True
+[23:56:10] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 58, NeedMore: True, CanSpawn: True
+[23:56:10] [SpawnNextBubble] Target present. Spawning next sequence: 60
+[23:56:10] [SpawnBubble] Spawning Number 60 at Grid (4, 5)
+[23:56:10] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 58, NeedMore: False, CanSpawn: True
+[23:56:10] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 59, NeedMore: True, CanSpawn: True
+[23:56:10] [SpawnNextBubble] Target present. Spawning next sequence: 61
+[23:56:10] [SpawnBubble] Spawning Number 61 at Grid (4, 6)
+[23:56:10] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 59, NeedMore: False, CanSpawn: True
+[23:56:10] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 60, NeedMore: True, CanSpawn: True
+[23:56:10] [SpawnNextBubble] Target present. Spawning next sequence: 62
+[23:56:10] [SpawnBubble] Spawning Number 62 at Grid (3, 2)
+[23:56:11] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 60, NeedMore: False, CanSpawn: True
+[23:56:11] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 61, NeedMore: True, CanSpawn: True
+[23:56:11] [SpawnNextBubble] Target present. Spawning next sequence: 63
+[23:56:11] [SpawnBubble] Spawning Number 63 at Grid (3, 1)
+[23:56:11] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 61, NeedMore: False, CanSpawn: True
+[23:56:11] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 62, NeedMore: True, CanSpawn: True
+[23:56:11] [SpawnNextBubble] Target present. Spawning next sequence: 64
+[23:56:11] [SpawnBubble] Spawning Number 64 at Grid (4, 2)
+[23:56:11] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 62, NeedMore: False, CanSpawn: True
+[23:56:12] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 63, NeedMore: True, CanSpawn: True
+[23:56:12] [SpawnNextBubble] Target present. Spawning next sequence: 65
+[23:56:12] [SpawnBubble] Spawning Number 65 at Grid (0, 4)
+[23:56:12] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 63, NeedMore: False, CanSpawn: True
+[23:56:12] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 64, NeedMore: True, CanSpawn: True
+[23:56:12] [SpawnNextBubble] Target present. Spawning next sequence: 66
+[23:56:12] [SpawnBubble] Spawning Number 66 at Grid (4, 6)
+[23:56:12] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 64, NeedMore: False, CanSpawn: True
+[23:56:12] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 65, NeedMore: True, CanSpawn: True
+[23:56:12] [SpawnNextBubble] Target present. Spawning next sequence: 67
+[23:56:12] [SpawnBubble] Spawning Number 67 at Grid (4, 4)
+[23:56:12] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 65, NeedMore: False, CanSpawn: True
+[23:56:13] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 66, NeedMore: True, CanSpawn: True
+[23:56:13] [SpawnNextBubble] Target present. Spawning next sequence: 68
+[23:56:13] [SpawnBubble] Spawning Number 68 at Grid (0, 5)
+[23:56:13] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 66, NeedMore: False, CanSpawn: True
+[23:56:13] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 67, NeedMore: True, CanSpawn: True
+[23:56:13] [SpawnNextBubble] Target present. Spawning next sequence: 69
+[23:56:13] [SpawnBubble] Spawning Number 69 at Grid (1, 3)
+[23:56:13] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 67, NeedMore: False, CanSpawn: True
+[23:56:13] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 68, NeedMore: True, CanSpawn: True
+[23:56:13] [SpawnNextBubble] Target present. Spawning next sequence: 70
+[23:56:13] [SpawnBubble] Spawning Number 70 at Grid (3, 2)
+[23:56:13] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 68, NeedMore: False, CanSpawn: True
+[23:56:15] [UpdateBubbleCount] Active: 2, Desired: 5, Target: 69, NeedMore: True, CanSpawn: True
+[23:56:15] [SpawnNextBubble] Target present. Spawning next sequence: 71
+[23:56:15] [SpawnBubble] Spawning Number 71 at Grid (1, 1)
+[23:56:15] [UpdateBubbleCount] Active: 3, Desired: 5, Target: 69, NeedMore: True, CanSpawn: True
+[23:56:15] [SpawnNextBubble] Target present. Spawning next sequence: 72
+[23:56:15] [SpawnBubble] Spawning Number 72 at Grid (4, 5)
+[23:56:15] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 69, NeedMore: True, CanSpawn: True
+[23:56:15] [SpawnNextBubble] Target present. Spawning next sequence: 73
+[23:56:15] [SpawnBubble] Spawning Number 73 at Grid (0, 3)
+[23:56:15] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 69, NeedMore: False, CanSpawn: True
+[23:56:15] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 70, NeedMore: True, CanSpawn: True
+[23:56:15] [SpawnNextBubble] Target present. Spawning next sequence: 74
+[23:56:15] [SpawnBubble] Spawning Number 74 at Grid (0, 5)
+[23:56:15] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 70, NeedMore: False, CanSpawn: True
+[23:56:15] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 71, NeedMore: True, CanSpawn: True
+[23:56:15] [SpawnNextBubble] Target present. Spawning next sequence: 75
+[23:56:15] [SpawnBubble] Spawning Number 75 at Grid (2, 5)
+[23:56:15] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 71, NeedMore: False, CanSpawn: True
+[23:56:16] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 72, NeedMore: True, CanSpawn: True
+[23:56:16] [SpawnNextBubble] Target present. Spawning next sequence: 76
+[23:56:16] [SpawnBubble] Spawning Number 76 at Grid (0, 4)
+[23:56:16] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 72, NeedMore: False, CanSpawn: True
+[23:56:18] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 73, NeedMore: True, CanSpawn: True
+[23:56:18] [SpawnNextBubble] Target present. Spawning next sequence: 77
+[23:56:18] [SpawnBubble] Spawning Number 77 at Grid (2, 6)
+[23:56:18] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 73, NeedMore: False, CanSpawn: True
+[23:56:19] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 74, NeedMore: True, CanSpawn: True
+[23:56:19] [SpawnNextBubble] Target present. Spawning next sequence: 78
+[23:56:19] [SpawnBubble] Spawning Number 78 at Grid (0, 1)
+[23:56:19] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 74, NeedMore: False, CanSpawn: True
+[23:56:20] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 75, NeedMore: True, CanSpawn: True
+[23:56:20] [SpawnNextBubble] Target present. Spawning next sequence: 79
+[23:56:20] [SpawnBubble] Spawning Number 79 at Grid (0, 3)
+[23:56:20] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 75, NeedMore: False, CanSpawn: True
+[23:56:20] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 76, NeedMore: True, CanSpawn: True
+[23:56:20] [SpawnNextBubble] Target present. Spawning next sequence: 80
+[23:56:20] [SpawnBubble] Spawning Number 80 at Grid (4, 3)
+[23:56:20] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 76, NeedMore: False, CanSpawn: True
+[23:56:21] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 77, NeedMore: True, CanSpawn: True
+[23:56:21] [SpawnNextBubble] Target present. Spawning next sequence: 81
+[23:56:21] [SpawnBubble] Spawning Number 81 at Grid (1, 6)
+[23:56:21] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 77, NeedMore: False, CanSpawn: True
+[23:56:21] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 78, NeedMore: True, CanSpawn: True
+[23:56:21] [SpawnNextBubble] Target present. Spawning next sequence: 82
+[23:56:21] [SpawnBubble] Spawning Number 82 at Grid (3, 6)
+[23:56:21] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 78, NeedMore: False, CanSpawn: True
+[23:56:22] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 79, NeedMore: True, CanSpawn: True
+[23:56:22] [SpawnNextBubble] Target present. Spawning next sequence: 83
+[23:56:22] [SpawnBubble] Spawning Number 83 at Grid (3, 4)
+[23:56:22] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 79, NeedMore: False, CanSpawn: True
+[23:56:23] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 80, NeedMore: True, CanSpawn: True
+[23:56:23] [SpawnNextBubble] Target present. Spawning next sequence: 84
+[23:56:23] [SpawnBubble] Spawning Number 84 at Grid (0, 1)
+[23:56:23] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 80, NeedMore: False, CanSpawn: True
+[23:56:23] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 81, NeedMore: True, CanSpawn: True
+[23:56:23] [SpawnNextBubble] Target present. Spawning next sequence: 85
+[23:56:23] [SpawnBubble] Spawning Number 85 at Grid (1, 2)
+[23:56:24] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 81, NeedMore: False, CanSpawn: True
+[23:56:24] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 82, NeedMore: True, CanSpawn: True
+[23:56:24] [SpawnNextBubble] Target present. Spawning next sequence: 86
+[23:56:24] [SpawnBubble] Spawning Number 86 at Grid (2, 5)
+[23:56:24] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 82, NeedMore: False, CanSpawn: True
+[23:56:24] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 83, NeedMore: True, CanSpawn: True
+[23:56:24] [SpawnNextBubble] Target present. Spawning next sequence: 87
+[23:56:24] [SpawnBubble] Spawning Number 87 at Grid (4, 1)
+[23:56:24] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 83, NeedMore: False, CanSpawn: True
+[23:56:25] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 84, NeedMore: True, CanSpawn: True
+[23:56:25] [SpawnNextBubble] Target present. Spawning next sequence: 88
+[23:56:25] [SpawnBubble] Spawning Number 88 at Grid (3, 5)
+[23:56:25] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 84, NeedMore: False, CanSpawn: True
+[23:56:25] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 85, NeedMore: True, CanSpawn: True
+[23:56:25] [SpawnNextBubble] Target present. Spawning next sequence: 89
+[23:56:25] [SpawnBubble] Spawning Number 89 at Grid (0, 3)
+[23:56:25] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 85, NeedMore: False, CanSpawn: True
+[23:56:25] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 86, NeedMore: True, CanSpawn: True
+[23:56:25] [SpawnNextBubble] Target present. Spawning next sequence: 90
+[23:56:25] [SpawnBubble] Spawning Number 90 at Grid (4, 2)
+[23:56:26] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 86, NeedMore: False, CanSpawn: True
+[23:56:26] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 87, NeedMore: False, CanSpawn: True
+[23:56:27] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 88, NeedMore: True, CanSpawn: True
+[23:56:27] [SpawnNextBubble] Target present. Spawning next sequence: 91
+[23:56:27] [SpawnBubble] Spawning Number 91 at Grid (4, 3)
+[23:56:27] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 88, NeedMore: False, CanSpawn: True
+[23:56:28] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 89, NeedMore: True, CanSpawn: True
+[23:56:28] [SpawnNextBubble] Target present. Spawning next sequence: 92
+[23:56:28] [SpawnBubble] Spawning Number 92 at Grid (4, 5)
+[23:56:28] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 89, NeedMore: False, CanSpawn: True
+[23:56:29] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 90, NeedMore: True, CanSpawn: True
+[23:56:29] [SpawnNextBubble] Target present. Spawning next sequence: 93
+[23:56:29] [SpawnBubble] Spawning Number 93 at Grid (0, 6)
+[23:56:29] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 90, NeedMore: False, CanSpawn: True
+[23:56:29] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 91, NeedMore: True, CanSpawn: True
+[23:56:29] [SpawnNextBubble] Target present. Spawning next sequence: 94
+[23:56:29] [SpawnBubble] Spawning Number 94 at Grid (1, 4)
+[23:56:29] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 91, NeedMore: False, CanSpawn: True
+[23:56:30] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 92, NeedMore: True, CanSpawn: True
+[23:56:30] [SpawnNextBubble] Target present. Spawning next sequence: 95
+[23:56:30] [SpawnBubble] Spawning Number 95 at Grid (0, 3)
+[23:56:30] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 92, NeedMore: False, CanSpawn: True
+[23:56:30] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 93, NeedMore: True, CanSpawn: True
+[23:56:30] [SpawnNextBubble] Target present. Spawning next sequence: 96
+[23:56:30] [SpawnBubble] Spawning Number 96 at Grid (3, 1)
+[23:56:30] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 93, NeedMore: False, CanSpawn: True
+[23:56:31] [UpdateBubbleCount] Active: 3, Desired: 5, Target: 94, NeedMore: True, CanSpawn: True
+[23:56:31] [SpawnNextBubble] Target present. Spawning next sequence: 97
+[23:56:31] [SpawnBubble] Spawning Number 97 at Grid (3, 6)
+[23:56:31] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 94, NeedMore: True, CanSpawn: True
+[23:56:31] [SpawnNextBubble] Target present. Spawning next sequence: 98
+[23:56:31] [SpawnBubble] Spawning Number 98 at Grid (0, 5)
+[23:56:31] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 94, NeedMore: False, CanSpawn: True
+[23:56:31] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 95, NeedMore: True, CanSpawn: True
+[23:56:31] [SpawnNextBubble] Target present. Spawning next sequence: 99
+[23:56:31] [SpawnBubble] Spawning Number 99 at Grid (3, 3)
+[23:56:31] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 95, NeedMore: False, CanSpawn: True
+[23:56:32] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 96, NeedMore: True, CanSpawn: True
+[23:56:32] [SpawnNextBubble] Target present. Spawning next sequence: 100
+[23:56:32] [SpawnBubble] Spawning Number 100 at Grid (2, 4)
+[23:56:32] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 96, NeedMore: False, CanSpawn: True
+[23:56:32] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 97, NeedMore: True, CanSpawn: True
+[23:56:32] [SpawnNextBubble] Target present. Spawning next sequence: 101
+[23:56:32] [SpawnBubble] Spawning Number 101 at Grid (1, 5)
+[23:56:32] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 97, NeedMore: False, CanSpawn: True
+[23:56:33] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 98, NeedMore: True, CanSpawn: True
+[23:56:33] [SpawnNextBubble] Target present. Spawning next sequence: 102
+[23:56:33] [SpawnBubble] Spawning Number 102 at Grid (1, 2)
+[23:56:33] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 98, NeedMore: False, CanSpawn: True
+[23:56:33] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 99, NeedMore: True, CanSpawn: True
+[23:56:33] [SpawnNextBubble] Target present. Spawning next sequence: 103
+[23:56:33] [SpawnBubble] Spawning Number 103 at Grid (1, 6)
+[23:56:33] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 99, NeedMore: False, CanSpawn: True
+[23:56:34] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 100, NeedMore: True, CanSpawn: True
+[23:56:34] [SpawnNextBubble] Target present. Spawning next sequence: 104
+[23:56:34] [SpawnBubble] Spawning Number 104 at Grid (0, 3)
+[23:56:34] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 100, NeedMore: False, CanSpawn: True
+[23:56:35] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 101, NeedMore: True, CanSpawn: True
+[23:56:35] [SpawnNextBubble] Target present. Spawning next sequence: 105
+[23:56:35] [SpawnBubble] Spawning Number 105 at Grid (3, 5)
+[23:56:35] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 101, NeedMore: False, CanSpawn: True
+[23:56:35] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 102, NeedMore: True, CanSpawn: True
+[23:56:35] [SpawnNextBubble] Target present. Spawning next sequence: 106
+[23:56:35] [SpawnBubble] Spawning Number 106 at Grid (4, 2)
+[23:56:35] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 102, NeedMore: False, CanSpawn: True
+[23:56:36] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 103, NeedMore: True, CanSpawn: True
+[23:56:36] [SpawnNextBubble] Target present. Spawning next sequence: 107
+[23:56:36] [SpawnBubble] Spawning Number 107 at Grid (3, 1)
+[23:56:36] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 103, NeedMore: False, CanSpawn: True
+[23:56:37] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 104, NeedMore: True, CanSpawn: True
+[23:56:37] [SpawnNextBubble] Target present. Spawning next sequence: 108
+[23:56:37] [SpawnBubble] Spawning Number 108 at Grid (1, 2)
+[23:56:37] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 104, NeedMore: False, CanSpawn: True
+[23:56:38] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 105, NeedMore: True, CanSpawn: True
+[23:56:38] [SpawnNextBubble] Target present. Spawning next sequence: 109
+[23:56:38] [SpawnBubble] Spawning Number 109 at Grid (2, 2)
+[23:56:38] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 105, NeedMore: False, CanSpawn: True
+[23:56:53] [SpawnBubble] Spawning Number 1 at Grid (0, 6)
+[23:56:53] [SpawnBubble] Spawning Number 2 at Grid (4, 4)
+[23:56:53] [SpawnBubble] Spawning Number 3 at Grid (1, 1)
+[23:56:53] [SpawnBubble] Spawning Number 4 at Grid (0, 4)
+[23:56:53] [SpawnBubble] Spawning Number 5 at Grid (4, 3)
+[23:56:55] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 2, NeedMore: True, CanSpawn: True
+[23:56:55] [SpawnNextBubble] Target present. Spawning next sequence: 6
+[23:56:55] [SpawnBubble] Spawning Number 6 at Grid (2, 5)
+[23:56:55] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 2, NeedMore: False, CanSpawn: True
+[23:56:55] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 3, NeedMore: True, CanSpawn: True
+[23:56:55] [SpawnNextBubble] Target present. Spawning next sequence: 7
+[23:56:55] [SpawnBubble] Spawning Number 7 at Grid (3, 2)
+[23:56:55] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 3, NeedMore: False, CanSpawn: True
+[23:56:56] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 4, NeedMore: True, CanSpawn: True
+[23:56:56] [SpawnNextBubble] Target present. Spawning next sequence: 8
+[23:56:56] [SpawnBubble] Spawning Number 8 at Grid (3, 4)
+[23:56:56] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 4, NeedMore: False, CanSpawn: True
+[23:56:57] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 5, NeedMore: True, CanSpawn: True
+[23:56:57] [SpawnNextBubble] Target present. Spawning next sequence: 9
+[23:56:57] [SpawnBubble] Spawning Number 9 at Grid (1, 6)
+[23:56:57] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 5, NeedMore: False, CanSpawn: True
+[23:56:57] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 6, NeedMore: True, CanSpawn: True
+[23:56:57] [SpawnNextBubble] Target present. Spawning next sequence: 10
+[23:56:57] [SpawnBubble] Spawning Number 10 at Grid (4, 6)
+[23:56:57] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 6, NeedMore: False, CanSpawn: True
+[23:56:57] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 7, NeedMore: True, CanSpawn: True
+[23:56:58] [SpawnNextBubble] Target present. Spawning next sequence: 11
+[23:56:58] [SpawnBubble] Spawning Number 11 at Grid (2, 4)
+[23:56:58] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 7, NeedMore: False, CanSpawn: True
+[23:56:58] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 8, NeedMore: True, CanSpawn: True
+[23:56:58] [SpawnNextBubble] Target present. Spawning next sequence: 12
+[23:56:58] [SpawnBubble] Spawning Number 12 at Grid (2, 6)
+[23:56:58] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 8, NeedMore: False, CanSpawn: True
+[23:56:58] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 9, NeedMore: True, CanSpawn: True
+[23:56:58] [SpawnNextBubble] Target present. Spawning next sequence: 13
+[23:56:58] [SpawnBubble] Spawning Number 13 at Grid (1, 1)
+[23:56:58] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 9, NeedMore: False, CanSpawn: True
+[23:56:59] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 10, NeedMore: True, CanSpawn: True
+[23:56:59] [SpawnNextBubble] Target present. Spawning next sequence: 14
+[23:56:59] [SpawnBubble] Spawning Number 14 at Grid (2, 2)
+[23:56:59] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 10, NeedMore: False, CanSpawn: True
+[23:56:59] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 11, NeedMore: True, CanSpawn: True
+[23:56:59] [SpawnNextBubble] Target present. Spawning next sequence: 15
+[23:56:59] [SpawnBubble] Spawning Number 15 at Grid (2, 3)
+[23:56:59] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 11, NeedMore: False, CanSpawn: True
+[23:57:00] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 12, NeedMore: True, CanSpawn: True
+[23:57:00] [SpawnNextBubble] Target present. Spawning next sequence: 16
+[23:57:00] [SpawnBubble] Spawning Number 16 at Grid (3, 4)
+[23:57:00] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 12, NeedMore: False, CanSpawn: True
+[23:57:00] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 13, NeedMore: True, CanSpawn: True
+[23:57:00] [SpawnNextBubble] Target present. Spawning next sequence: 17
+[23:57:00] [SpawnBubble] Spawning Number 17 at Grid (0, 6)
+[23:57:00] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 13, NeedMore: False, CanSpawn: True
+[23:57:02] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 14, NeedMore: True, CanSpawn: True
+[23:57:02] [SpawnNextBubble] Target present. Spawning next sequence: 18
+[23:57:02] [SpawnBubble] Spawning Number 18 at Grid (1, 3)
+[23:57:02] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 14, NeedMore: False, CanSpawn: True
+[23:57:02] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 15, NeedMore: True, CanSpawn: True
+[23:57:02] [SpawnNextBubble] Target present. Spawning next sequence: 19
+[23:57:02] [SpawnBubble] Spawning Number 19 at Grid (1, 1)
+[23:57:02] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 15, NeedMore: False, CanSpawn: True
+[23:57:02] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 16, NeedMore: True, CanSpawn: True
+[23:57:02] [SpawnNextBubble] Target present. Spawning next sequence: 20
+[23:57:02] [SpawnBubble] Spawning Number 20 at Grid (4, 3)
+[23:57:02] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 16, NeedMore: False, CanSpawn: True
+[23:57:03] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 17, NeedMore: True, CanSpawn: True
+[23:57:03] [SpawnNextBubble] Target present. Spawning next sequence: 21
+[23:57:03] [SpawnBubble] Spawning Number 21 at Grid (0, 1)
+[23:57:04] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 17, NeedMore: False, CanSpawn: True
+[23:57:07] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 18, NeedMore: True, CanSpawn: True
+[23:57:07] [SpawnNextBubble] Target present. Spawning next sequence: 22
+[23:57:07] [SpawnBubble] Spawning Number 22 at Grid (4, 6)
+[23:57:08] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 18, NeedMore: False, CanSpawn: True
+[23:57:08] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 19, NeedMore: True, CanSpawn: True
+[23:57:08] [SpawnNextBubble] Target present. Spawning next sequence: 23
+[23:57:08] [SpawnBubble] Spawning Number 23 at Grid (2, 6)
+[23:57:08] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 19, NeedMore: False, CanSpawn: True
+[23:57:09] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 20, NeedMore: True, CanSpawn: True
+[23:57:09] [SpawnNextBubble] Target present. Spawning next sequence: 24
+[23:57:09] [SpawnBubble] Spawning Number 24 at Grid (3, 4)
+[23:57:09] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 20, NeedMore: False, CanSpawn: True
+[23:57:09] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 21, NeedMore: True, CanSpawn: True
+[23:57:09] [SpawnNextBubble] Target present. Spawning next sequence: 25
+[23:57:09] [SpawnBubble] Spawning Number 25 at Grid (0, 3)
+[23:57:09] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 21, NeedMore: False, CanSpawn: True
+[23:57:10] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 22, NeedMore: True, CanSpawn: True
+[23:57:10] [SpawnNextBubble] Target present. Spawning next sequence: 26
+[23:57:10] [SpawnBubble] Spawning Number 26 at Grid (0, 4)
+[23:57:10] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 22, NeedMore: False, CanSpawn: True
+[23:57:12] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 23, NeedMore: True, CanSpawn: True
+[23:57:12] [SpawnNextBubble] Target present. Spawning next sequence: 27
+[23:57:12] [SpawnBubble] Spawning Number 27 at Grid (2, 4)
+[23:57:12] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 23, NeedMore: False, CanSpawn: True
+[23:57:13] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 24, NeedMore: True, CanSpawn: True
+[23:57:13] [SpawnNextBubble] Target present. Spawning next sequence: 28
+[23:57:13] [SpawnBubble] Spawning Number 28 at Grid (4, 2)
+[23:57:13] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 24, NeedMore: False, CanSpawn: True
+[23:57:13] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 25, NeedMore: True, CanSpawn: True
+[23:57:13] [SpawnNextBubble] Target present. Spawning next sequence: 29
+[23:57:13] [SpawnBubble] Spawning Number 29 at Grid (1, 2)
+[23:57:13] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 25, NeedMore: False, CanSpawn: True
+[23:57:14] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 26, NeedMore: True, CanSpawn: True
+[23:57:14] [SpawnNextBubble] Target present. Spawning next sequence: 30
+[23:57:14] [SpawnBubble] Spawning Number 30 at Grid (0, 5)
+[23:57:14] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 26, NeedMore: False, CanSpawn: True
+[23:57:14] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 27, NeedMore: True, CanSpawn: True
+[23:57:14] [SpawnNextBubble] Target present. Spawning next sequence: 31
+[23:57:14] [SpawnBubble] Spawning Number 31 at Grid (1, 5)
+[23:57:14] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 27, NeedMore: False, CanSpawn: True
+[23:57:14] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 28, NeedMore: True, CanSpawn: True
+[23:57:14] [SpawnNextBubble] Target present. Spawning next sequence: 32
+[23:57:14] [SpawnBubble] Spawning Number 32 at Grid (3, 4)
+[23:57:14] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 28, NeedMore: False, CanSpawn: True
+[23:57:15] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 29, NeedMore: True, CanSpawn: True
+[23:57:15] [SpawnNextBubble] Target present. Spawning next sequence: 33
+[23:57:15] [SpawnBubble] Spawning Number 33 at Grid (3, 5)
+[23:57:15] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 29, NeedMore: False, CanSpawn: True
+[23:57:15] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 30, NeedMore: True, CanSpawn: True
+[23:57:15] [SpawnNextBubble] Target present. Spawning next sequence: 34
+[23:57:15] [SpawnBubble] Spawning Number 34 at Grid (4, 5)
+[23:57:15] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 30, NeedMore: False, CanSpawn: True
+[23:57:17] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 31, NeedMore: True, CanSpawn: True
+[23:57:17] [SpawnNextBubble] Target present. Spawning next sequence: 35
+[23:57:17] [SpawnBubble] Spawning Number 35 at Grid (4, 2)
+[23:57:17] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 31, NeedMore: False, CanSpawn: True
+[23:57:17] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 32, NeedMore: True, CanSpawn: True
+[23:57:17] [SpawnNextBubble] Target present. Spawning next sequence: 36
+[23:57:17] [SpawnBubble] Spawning Number 36 at Grid (0, 5)
+[23:57:17] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 32, NeedMore: False, CanSpawn: True
+[23:57:17] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 33, NeedMore: True, CanSpawn: True
+[23:57:17] [SpawnNextBubble] Target present. Spawning next sequence: 37
+[23:57:17] [SpawnBubble] Spawning Number 37 at Grid (1, 1)
+[23:57:17] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 33, NeedMore: False, CanSpawn: True
+[23:57:18] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 34, NeedMore: True, CanSpawn: True
+[23:57:18] [SpawnNextBubble] Target present. Spawning next sequence: 38
+[23:57:18] [SpawnBubble] Spawning Number 38 at Grid (4, 6)
+[23:57:18] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 34, NeedMore: False, CanSpawn: True
+[23:57:18] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 35, NeedMore: True, CanSpawn: True
+[23:57:18] [SpawnNextBubble] Target present. Spawning next sequence: 39
+[23:57:18] [SpawnBubble] Spawning Number 39 at Grid (3, 1)
+[23:57:18] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 35, NeedMore: False, CanSpawn: True
+[23:57:18] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 36, NeedMore: True, CanSpawn: True
+[23:57:18] [SpawnNextBubble] Target present. Spawning next sequence: 40
+[23:57:18] [SpawnBubble] Spawning Number 40 at Grid (2, 6)
+[23:57:18] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 36, NeedMore: False, CanSpawn: True
+[23:57:19] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 37, NeedMore: False, CanSpawn: True
+[23:57:19] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 38, NeedMore: True, CanSpawn: True
+[23:57:19] [SpawnNextBubble] Target present. Spawning next sequence: 41
+[23:57:19] [SpawnBubble] Spawning Number 41 at Grid (0, 3)
+[23:57:20] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 38, NeedMore: False, CanSpawn: True
+[23:57:20] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 39, NeedMore: True, CanSpawn: True
+[23:57:20] [SpawnNextBubble] Target present. Spawning next sequence: 42
+[23:57:20] [SpawnBubble] Spawning Number 42 at Grid (3, 3)
+[23:57:20] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 39, NeedMore: False, CanSpawn: True
+[23:57:21] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 40, NeedMore: True, CanSpawn: True
+[23:57:21] [SpawnNextBubble] Target present. Spawning next sequence: 43
+[23:57:21] [SpawnBubble] Spawning Number 43 at Grid (4, 4)
+[23:57:21] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 40, NeedMore: False, CanSpawn: True
+[23:57:21] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 41, NeedMore: True, CanSpawn: True
+[23:57:21] [SpawnNextBubble] Target present. Spawning next sequence: 44
+[23:57:21] [SpawnBubble] Spawning Number 44 at Grid (1, 4)
+[23:57:22] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 41, NeedMore: False, CanSpawn: True
+[23:57:22] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 42, NeedMore: True, CanSpawn: True
+[23:57:22] [SpawnNextBubble] Target present. Spawning next sequence: 45
+[23:57:22] [SpawnBubble] Spawning Number 45 at Grid (4, 1)
+[23:57:22] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 42, NeedMore: False, CanSpawn: True
+[23:57:23] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 43, NeedMore: True, CanSpawn: True
+[23:57:23] [SpawnNextBubble] Target present. Spawning next sequence: 46
+[23:57:23] [SpawnBubble] Spawning Number 46 at Grid (3, 1)
+[23:57:23] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 43, NeedMore: False, CanSpawn: True
+[23:57:23] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 44, NeedMore: True, CanSpawn: True
+[23:57:23] [SpawnNextBubble] Target present. Spawning next sequence: 47
+[23:57:23] [SpawnBubble] Spawning Number 47 at Grid (0, 1)
+[23:57:23] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 44, NeedMore: False, CanSpawn: True
+[23:57:23] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 45, NeedMore: True, CanSpawn: True
+[23:57:23] [SpawnNextBubble] Target present. Spawning next sequence: 48
+[23:57:23] [SpawnBubble] Spawning Number 48 at Grid (4, 4)
+[23:57:23] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 45, NeedMore: False, CanSpawn: True
+[23:57:24] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 46, NeedMore: True, CanSpawn: True
+[23:57:24] [SpawnNextBubble] Target present. Spawning next sequence: 49
+[23:57:24] [SpawnBubble] Spawning Number 49 at Grid (2, 2)
+[23:57:24] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 46, NeedMore: False, CanSpawn: True
+[23:57:24] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 47, NeedMore: True, CanSpawn: True
+[23:57:24] [SpawnNextBubble] Target present. Spawning next sequence: 50
+[23:57:24] [SpawnBubble] Spawning Number 50 at Grid (0, 2)
+[23:57:24] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 47, NeedMore: False, CanSpawn: True
+[23:57:24] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 48, NeedMore: True, CanSpawn: True
+[23:57:24] [SpawnNextBubble] Target present. Spawning next sequence: 51
+[23:57:24] [SpawnBubble] Spawning Number 51 at Grid (1, 4)
+[23:57:24] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 48, NeedMore: False, CanSpawn: True
+[23:57:25] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 49, NeedMore: True, CanSpawn: True
+[23:57:25] [SpawnNextBubble] Target present. Spawning next sequence: 52
+[23:57:25] [SpawnBubble] Spawning Number 52 at Grid (4, 3)
+[23:57:25] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 49, NeedMore: False, CanSpawn: True
+[23:57:25] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 50, NeedMore: True, CanSpawn: True
+[23:57:25] [SpawnNextBubble] Target present. Spawning next sequence: 53
+[23:57:25] [SpawnBubble] Spawning Number 53 at Grid (1, 1)
+[23:57:26] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 50, NeedMore: False, CanSpawn: True
+[23:57:26] [UpdateBubbleCount] Active: 3, Desired: 4, Target: 51, NeedMore: True, CanSpawn: True
+[23:57:26] [SpawnNextBubble] Target present. Spawning next sequence: 54
+[23:57:26] [SpawnBubble] Spawning Number 54 at Grid (3, 4)
+[23:57:26] [UpdateBubbleCount] Active: 4, Desired: 4, Target: 51, NeedMore: False, CanSpawn: True
+[23:57:26] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 52, NeedMore: False, CanSpawn: True
+[23:57:27] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 53, NeedMore: True, CanSpawn: True
+[23:57:27] [SpawnNextBubble] Target present. Spawning next sequence: 55
+[23:57:27] [SpawnBubble] Spawning Number 55 at Grid (1, 5)
+[23:57:27] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 53, NeedMore: False, CanSpawn: True
+[23:57:27] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 54, NeedMore: True, CanSpawn: True
+[23:57:27] [SpawnNextBubble] Target present. Spawning next sequence: 56
+[23:57:27] [SpawnBubble] Spawning Number 56 at Grid (3, 3)
+[23:57:27] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 54, NeedMore: False, CanSpawn: True
+[23:57:27] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 55, NeedMore: True, CanSpawn: True
+[23:57:27] [SpawnNextBubble] Target present. Spawning next sequence: 57
+[23:57:27] [SpawnBubble] Spawning Number 57 at Grid (1, 2)
+[23:57:28] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 55, NeedMore: False, CanSpawn: True
+[23:57:28] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 56, NeedMore: True, CanSpawn: True
+[23:57:28] [SpawnNextBubble] Target present. Spawning next sequence: 58
+[23:57:28] [SpawnBubble] Spawning Number 58 at Grid (2, 1)
+[23:57:28] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 56, NeedMore: False, CanSpawn: True
+[23:57:28] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 57, NeedMore: True, CanSpawn: True
+[23:57:28] [SpawnNextBubble] Target present. Spawning next sequence: 59
+[23:57:28] [SpawnBubble] Spawning Number 59 at Grid (4, 2)
+[23:57:28] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 57, NeedMore: False, CanSpawn: True
+[23:57:28] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 58, NeedMore: True, CanSpawn: True
+[23:57:28] [SpawnNextBubble] Target present. Spawning next sequence: 60
+[23:57:28] [SpawnBubble] Spawning Number 60 at Grid (2, 4)
+[23:57:28] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 58, NeedMore: False, CanSpawn: True
+[23:57:29] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 59, NeedMore: True, CanSpawn: True
+[23:57:29] [SpawnNextBubble] Target present. Spawning next sequence: 61
+[23:57:29] [SpawnBubble] Spawning Number 61 at Grid (1, 6)
+[23:57:29] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 59, NeedMore: False, CanSpawn: True
+[23:57:29] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 60, NeedMore: True, CanSpawn: True
+[23:57:29] [SpawnNextBubble] Target present. Spawning next sequence: 62
+[23:57:29] [SpawnBubble] Spawning Number 62 at Grid (0, 3)
+[23:57:29] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 60, NeedMore: False, CanSpawn: True
+[23:57:30] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 61, NeedMore: True, CanSpawn: True
+[23:57:30] [SpawnNextBubble] Target present. Spawning next sequence: 63
+[23:57:30] [SpawnBubble] Spawning Number 63 at Grid (2, 2)
+[23:57:30] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 61, NeedMore: False, CanSpawn: True
+[23:57:30] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 62, NeedMore: True, CanSpawn: True
+[23:57:30] [SpawnNextBubble] Target present. Spawning next sequence: 64
+[23:57:30] [SpawnBubble] Spawning Number 64 at Grid (1, 2)
+[23:57:30] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 62, NeedMore: False, CanSpawn: True
+[23:57:30] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 63, NeedMore: True, CanSpawn: True
+[23:57:30] [SpawnNextBubble] Target present. Spawning next sequence: 65
+[23:57:30] [SpawnBubble] Spawning Number 65 at Grid (3, 2)
+[23:57:30] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 63, NeedMore: False, CanSpawn: True
+[23:57:31] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 64, NeedMore: True, CanSpawn: True
+[23:57:31] [SpawnNextBubble] Target present. Spawning next sequence: 66
+[23:57:31] [SpawnBubble] Spawning Number 66 at Grid (4, 1)
+[23:57:31] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 64, NeedMore: False, CanSpawn: True
+[23:57:31] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 65, NeedMore: True, CanSpawn: True
+[23:57:31] [SpawnNextBubble] Target present. Spawning next sequence: 67
+[23:57:31] [SpawnBubble] Spawning Number 67 at Grid (2, 6)
+[23:57:31] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 65, NeedMore: False, CanSpawn: True
+[23:57:31] [UpdateBubbleCount] Active: 2, Desired: 3, Target: 66, NeedMore: True, CanSpawn: True
+[23:57:31] [SpawnNextBubble] Target present. Spawning next sequence: 68
+[23:57:31] [SpawnBubble] Spawning Number 68 at Grid (4, 5)
+[23:57:31] [UpdateBubbleCount] Active: 3, Desired: 3, Target: 66, NeedMore: False, CanSpawn: True
+[23:57:31] [UpdateBubbleCount] Active: 2, Desired: 2, Target: 67, NeedMore: False, CanSpawn: True
+[23:57:32] [UpdateBubbleCount] Active: 1, Desired: 5, Target: 68, NeedMore: True, CanSpawn: True
+[23:57:32] [SpawnNextBubble] Target present. Spawning next sequence: 69
+[23:57:32] [SpawnBubble] Spawning Number 69 at Grid (0, 5)
+[23:57:33] [UpdateBubbleCount] Active: 2, Desired: 5, Target: 68, NeedMore: True, CanSpawn: True
+[23:57:33] [SpawnNextBubble] Target present. Spawning next sequence: 70
+[23:57:33] [SpawnBubble] Spawning Number 70 at Grid (2, 1)
+[23:57:33] [UpdateBubbleCount] Active: 3, Desired: 5, Target: 68, NeedMore: True, CanSpawn: True
+[23:57:33] [SpawnNextBubble] Target present. Spawning next sequence: 71
+[23:57:33] [SpawnBubble] Spawning Number 71 at Grid (2, 5)
+[23:57:33] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 68, NeedMore: True, CanSpawn: True
+[23:57:33] [SpawnNextBubble] Target present. Spawning next sequence: 72
+[23:57:33] [SpawnBubble] Spawning Number 72 at Grid (3, 5)
+[23:57:33] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 68, NeedMore: False, CanSpawn: True
+[23:57:33] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 69, NeedMore: True, CanSpawn: True
+[23:57:33] [SpawnNextBubble] Target present. Spawning next sequence: 73
+[23:57:33] [SpawnBubble] Spawning Number 73 at Grid (4, 6)
+[23:57:33] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 69, NeedMore: False, CanSpawn: True
+[23:57:34] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 70, NeedMore: True, CanSpawn: True
+[23:57:34] [SpawnNextBubble] Target present. Spawning next sequence: 74
+[23:57:34] [SpawnBubble] Spawning Number 74 at Grid (1, 6)
+[23:57:34] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 70, NeedMore: False, CanSpawn: True
+[23:57:35] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 71, NeedMore: True, CanSpawn: True
+[23:57:35] [SpawnNextBubble] Target present. Spawning next sequence: 75
+[23:57:35] [SpawnBubble] Spawning Number 75 at Grid (3, 6)
+[23:57:35] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 71, NeedMore: False, CanSpawn: True
+[23:57:36] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 72, NeedMore: True, CanSpawn: True
+[23:57:36] [SpawnNextBubble] Target present. Spawning next sequence: 76
+[23:57:36] [SpawnBubble] Spawning Number 76 at Grid (0, 5)
+[23:57:36] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 72, NeedMore: False, CanSpawn: True
+[23:57:36] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 73, NeedMore: True, CanSpawn: True
+[23:57:36] [SpawnNextBubble] Target present. Spawning next sequence: 77
+[23:57:36] [SpawnBubble] Spawning Number 77 at Grid (2, 5)
+[23:57:36] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 73, NeedMore: False, CanSpawn: True
+[23:57:36] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 74, NeedMore: True, CanSpawn: True
+[23:57:36] [SpawnNextBubble] Target present. Spawning next sequence: 78
+[23:57:36] [SpawnBubble] Spawning Number 78 at Grid (0, 3)
+[23:57:36] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 74, NeedMore: False, CanSpawn: True
+[23:57:37] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 75, NeedMore: True, CanSpawn: True
+[23:57:37] [SpawnNextBubble] Target present. Spawning next sequence: 79
+[23:57:37] [SpawnBubble] Spawning Number 79 at Grid (1, 5)
+[23:57:37] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 75, NeedMore: False, CanSpawn: True
+[23:57:37] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 76, NeedMore: True, CanSpawn: True
+[23:57:37] [SpawnNextBubble] Target present. Spawning next sequence: 80
+[23:57:37] [SpawnBubble] Spawning Number 80 at Grid (3, 2)
+[23:57:37] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 76, NeedMore: False, CanSpawn: True
+[23:57:38] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 77, NeedMore: True, CanSpawn: True
+[23:57:38] [SpawnNextBubble] Target present. Spawning next sequence: 81
+[23:57:38] [SpawnBubble] Spawning Number 81 at Grid (3, 3)
+[23:57:38] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 77, NeedMore: False, CanSpawn: True
+[23:57:39] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 78, NeedMore: True, CanSpawn: True
+[23:57:39] [SpawnNextBubble] Target present. Spawning next sequence: 82
+[23:57:39] [SpawnBubble] Spawning Number 82 at Grid (4, 1)
+[23:57:39] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 78, NeedMore: False, CanSpawn: True
+[23:57:40] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 79, NeedMore: True, CanSpawn: True
+[23:57:40] [SpawnNextBubble] Target present. Spawning next sequence: 83
+[23:57:40] [SpawnBubble] Spawning Number 83 at Grid (2, 4)
+[23:57:40] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 79, NeedMore: False, CanSpawn: True
+[23:57:41] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 80, NeedMore: True, CanSpawn: True
+[23:57:41] [SpawnNextBubble] Target present. Spawning next sequence: 84
+[23:57:41] [SpawnBubble] Spawning Number 84 at Grid (0, 6)
+[23:57:41] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 80, NeedMore: False, CanSpawn: True
+[23:57:41] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 81, NeedMore: True, CanSpawn: True
+[23:57:41] [SpawnNextBubble] Target present. Spawning next sequence: 85
+[23:57:41] [SpawnBubble] Spawning Number 85 at Grid (2, 1)
+[23:57:41] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 81, NeedMore: False, CanSpawn: True
+[23:57:42] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 82, NeedMore: True, CanSpawn: True
+[23:57:42] [SpawnNextBubble] Target present. Spawning next sequence: 86
+[23:57:42] [SpawnBubble] Spawning Number 86 at Grid (1, 6)
+[23:57:42] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 82, NeedMore: False, CanSpawn: True
+[23:57:42] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 83, NeedMore: True, CanSpawn: True
+[23:57:43] [SpawnNextBubble] Target present. Spawning next sequence: 87
+[23:57:43] [SpawnBubble] Spawning Number 87 at Grid (4, 1)
+[23:57:43] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 83, NeedMore: False, CanSpawn: True
+[23:57:45] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 84, NeedMore: True, CanSpawn: True
+[23:57:45] [SpawnNextBubble] Target present. Spawning next sequence: 88
+[23:57:45] [SpawnBubble] Spawning Number 88 at Grid (3, 4)
+[23:57:45] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 84, NeedMore: False, CanSpawn: True
+[23:57:45] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 85, NeedMore: True, CanSpawn: True
+[23:57:45] [SpawnNextBubble] Target present. Spawning next sequence: 89
+[23:57:45] [SpawnBubble] Spawning Number 89 at Grid (2, 5)
+[23:57:45] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 85, NeedMore: False, CanSpawn: True
+[23:57:46] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 86, NeedMore: True, CanSpawn: True
+[23:57:46] [SpawnNextBubble] Target present. Spawning next sequence: 90
+[23:57:46] [SpawnBubble] Spawning Number 90 at Grid (3, 5)
+[23:57:46] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 86, NeedMore: False, CanSpawn: True
+[23:57:47] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 87, NeedMore: True, CanSpawn: True
+[23:57:47] [SpawnNextBubble] Target present. Spawning next sequence: 91
+[23:57:47] [SpawnBubble] Spawning Number 91 at Grid (3, 1)
+[23:57:47] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 87, NeedMore: False, CanSpawn: True
+[23:57:48] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 88, NeedMore: True, CanSpawn: True
+[23:57:48] [SpawnNextBubble] Target present. Spawning next sequence: 92
+[23:57:48] [SpawnBubble] Spawning Number 92 at Grid (3, 3)
+[23:57:48] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 88, NeedMore: False, CanSpawn: True
+[23:57:48] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 89, NeedMore: True, CanSpawn: True
+[23:57:48] [SpawnNextBubble] Target present. Spawning next sequence: 93
+[23:57:48] [SpawnBubble] Spawning Number 93 at Grid (1, 2)
+[23:57:48] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 89, NeedMore: False, CanSpawn: True
+[23:57:49] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 90, NeedMore: True, CanSpawn: True
+[23:57:49] [SpawnNextBubble] Target present. Spawning next sequence: 94
+[23:57:49] [SpawnBubble] Spawning Number 94 at Grid (2, 2)
+[23:57:49] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 90, NeedMore: False, CanSpawn: True
+[23:57:49] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 91, NeedMore: True, CanSpawn: True
+[23:57:49] [SpawnNextBubble] Target present. Spawning next sequence: 95
+[23:57:49] [SpawnBubble] Spawning Number 95 at Grid (2, 1)
+[23:57:49] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 91, NeedMore: False, CanSpawn: True
+[23:57:50] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 92, NeedMore: True, CanSpawn: True
+[23:57:50] [SpawnNextBubble] Target present. Spawning next sequence: 96
+[23:57:50] [SpawnBubble] Spawning Number 96 at Grid (1, 6)
+[23:57:50] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 92, NeedMore: False, CanSpawn: True
+[23:57:51] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 93, NeedMore: True, CanSpawn: True
+[23:57:51] [SpawnNextBubble] Target present. Spawning next sequence: 97
+[23:57:51] [SpawnBubble] Spawning Number 97 at Grid (1, 5)
+[23:57:51] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 93, NeedMore: False, CanSpawn: True
+[23:57:52] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 94, NeedMore: True, CanSpawn: True
+[23:57:52] [SpawnNextBubble] Target present. Spawning next sequence: 98
+[23:57:52] [SpawnBubble] Spawning Number 98 at Grid (3, 1)
+[23:57:52] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 94, NeedMore: False, CanSpawn: True
+[23:57:52] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 95, NeedMore: True, CanSpawn: True
+[23:57:52] [SpawnNextBubble] Target present. Spawning next sequence: 99
+[23:57:52] [SpawnBubble] Spawning Number 99 at Grid (3, 3)
+[23:57:52] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 95, NeedMore: False, CanSpawn: True
+[23:57:53] [UpdateBubbleCount] Active: 4, Desired: 5, Target: 96, NeedMore: True, CanSpawn: True
+[23:57:53] [SpawnNextBubble] Target present. Spawning next sequence: 100
+[23:57:53] [SpawnBubble] Spawning Number 100 at Grid (2, 6)
+[23:57:53] [UpdateBubbleCount] Active: 5, Desired: 5, Target: 96, NeedMore: False, CanSpawn: True
