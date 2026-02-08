@@ -88,7 +88,11 @@ namespace Managers
 
         private void OnVolumeChanged(float value)
         {
-            AudioListener.volume = value;
+            if (SoundManager.Instance != null)
+            {
+                SoundManager.Instance.SetBgmVolume(value);
+                SoundManager.Instance.SetSfxVolume(value);
+            }
         }
 
         private void OnGameStart()

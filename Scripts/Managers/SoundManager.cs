@@ -66,6 +66,22 @@ namespace Managers
             PlaySFX(wrongSfx);
         }
 
+        public void SetBgmVolume(float volume)
+        {
+            if (bgmSource != null)
+            {
+                bgmSource.volume = volume;
+            }
+        }
+
+        public void SetSfxVolume(float volume)
+        {
+            if (sfxSource != null)
+            {
+                sfxSource.volume = volume;
+            }
+        }
+
         private void PlaySFX(AudioClip clip)
         {
             if (sfxSource != null && clip != null)
